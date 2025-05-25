@@ -56,11 +56,11 @@ This is the description of the system components and their interactions:
 ### Week 28 - 4 May
 I have started the project following the steps to set-up the gitlab page and I have sketched the documentations
 ### Week 5 - 11 May
-
+I have completed the documentation milestone and started assembling the hardware
 ### Week 12 - 18 May
-
+I have completed the hardware milestone and started the coding
 ### Week 19 - 25 May
-
+I have made progress with the software
 ## Hardware
 
 The project uses the following components:
@@ -76,7 +76,7 @@ The project uses the following components:
 ### Schematics
 
 This is the Kicad Schematic:
-![KiCad Schematics](Schematic.webp)
+![KiCad Schematics](Schematic.svg)
 Instead of a keypad schematic I have used connection pins to represent the rows and columns of the keypad in the KiCad representation of the project
 
 ![First Photo](Project1.webp)
